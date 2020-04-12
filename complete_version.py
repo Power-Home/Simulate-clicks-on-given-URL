@@ -41,7 +41,7 @@ def get_cookie(url,urls):
     return cookies
 
 
-def auto_click(urls,num):
+def simulate_click(urls,num):
         success = 0
         fail = 0        
         referer_list=[
@@ -85,8 +85,8 @@ def auto_click(urls,num):
 
 if __name__ == '__main__':
     num=100   # 运行次数,酌情修改
-    urls=['https://blog.csdn.net/weixin_41896265/article/details/105393694','https://blog.csdn.net/weixin_41896265/article/details/105394115','https://blog.csdn.net/weixin_41896265/article/details/105371624']
-    auto_click(urls,num)
+    urls=['你的url0','你的url1'，'你的url2']
+    simulate_click(urls,num)
   
     
   
