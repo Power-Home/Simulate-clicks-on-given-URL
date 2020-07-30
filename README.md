@@ -1,14 +1,14 @@
 # Simulate clicks on given URL
  Web Crawler projects are full of fun. We take this example as a practice chance and it currently is in a turorial level,but useful anyway.
 
-## redis¿â°²×°ºÍdailiIP³ØµÄ´î½¨»¶Ó­ÔÄ¶ÁÎÒµÄÎÄÕÂ
-[python3ÍøÂçÅÀ³æÏµÁĞ£¨Ò»£©Redis¿â°²×°Ô­À´Ö»ĞèÕâÑù¼òµ¥Èı²½](https://blog.csdn.net/weixin_41896265/article/details/105463980)
-[python3ÍøÂçÅÀ³æÏµÁĞ£¨¶ş£©ÓÃÕâÒ»ÕĞ£¡ÎÒÖÕÓÚÓĞÁËÃâ·ÑºÃÓÃµÄ´úÀíIP³Ø](https://blog.csdn.net/weixin_41896265/article/details/105463957) 
+## redisåº“å®‰è£…å’Œä»£ç†IPæ± çš„æ­å»ºæ¬¢è¿é˜…è¯»æˆ‘çš„æ–‡ç« 
+[python3ç½‘ç»œçˆ¬è™«ç³»åˆ—ï¼ˆä¸€ï¼‰Redisåº“å®‰è£…åŸæ¥åªéœ€è¿™æ ·ç®€å•ä¸‰æ­¥](https://blog.csdn.net/weixin_41896265/article/details/105463980)
+[python3ç½‘ç»œçˆ¬è™«ç³»åˆ—ï¼ˆäºŒï¼‰ç”¨è¿™ä¸€æ‹›ï¼æˆ‘ç»ˆäºæœ‰äº†å…è´¹å¥½ç”¨çš„ä»£ç†IPæ± ](https://blog.csdn.net/weixin_41896265/article/details/105463957) 
 
-ÆäËû¹ØÓÚ´úÀíIP³ØÓöµ½µÄÎÊÌâ¿ÉÒÔ²é¿´GermeyµÄµÄ[proxypoolÔ´Âë](https://github.com/Python3WebSpider/ProxyPool)
+å…¶ä»–å…³äºä»£ç†IPæ± é‡åˆ°çš„é—®é¢˜å¯ä»¥æŸ¥çœ‹Germeyçš„çš„[proxypoolæºç ](https://github.com/Python3WebSpider/ProxyPool)
 
-## ËµÃ÷
-ÓÉÓÚÄ¿Ç°CSDNµÈÍøÕ¾µÄ·´ÅÀ³æÁ¦¶ÈÔ½À´Ô½´ó£¬±¾ÏîÄ¿¿ÉÄÜ»áËæÊ±Ê§Ğ§£¬ËùÒÔ¹ØÓÚÍøÂçÅÀ³æ£¬±¾ÏîÄ¿ÒÔÌá¹©Ñ§Ï°²ÄÁÏºÍÍøÂçÅÀ³æÈëÃÅÎªÖ÷ÒªÄ¿µÄ¡£
+## è¯´æ˜
+ç”±äºç›®å‰CSDNç­‰ç½‘ç«™çš„åçˆ¬è™«åŠ›åº¦è¶Šæ¥è¶Šå¤§ï¼Œæœ¬é¡¹ç›®å¯èƒ½ä¼šéšæ—¶å¤±æ•ˆï¼Œæ‰€ä»¥å…³äºç½‘ç»œçˆ¬è™«ï¼Œæœ¬é¡¹ç›®ä»¥æä¾›å­¦ä¹ ææ–™å’Œç½‘ç»œçˆ¬è™«å…¥é—¨ä¸ºä¸»è¦ç›®çš„ã€‚
 
 
 
