@@ -2,7 +2,6 @@
  Web Crawler projects are full of fun. We take this example as a practice chance and it currently is in a turorial level,but useful anyway.
 
 ## redis库安装和代理IP池的搭建欢迎阅读我的文章
-<br>
 [python3网络爬虫系列（一）Redis库安装原来只需这样简单三步](https://blog.csdn.net/weixin_41896265/article/details/105463980)
 <br>
 [python3网络爬虫系列（二）用这一招！我终于有了免费好用的代理IP池](https://blog.csdn.net/weixin_41896265/article/details/105463957) 
